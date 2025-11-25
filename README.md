@@ -22,7 +22,7 @@ Soy **Ingeniero Informático** a punto de graduarme, apasionado por la mezcla en
 
 Me encanta programar soluciones eficientes, desde scripts en **Python** hasta sistemas distribuidos en **C**.
 
-En mi tiempo libre me gusta hacer maquetas de canciones en Ableton Live, ilustración digital y fotografía en Lightroom.
+En mi tiempo libre me gusta hacer maquetas de canciones en Ableton Live, ilustrar en digital en Procreate y hacer y editar fotografía en Lightroom.
 
 Buscando oportunidades para aplicar mis conocimientos en entornos innovadores y creativos.
 
